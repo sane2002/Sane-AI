@@ -1,0 +1,5 @@
+openai
+speechrecognition
+pyttsx3
+requests
+googlesearch-python
