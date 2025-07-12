@@ -3,3 +3,5 @@ speechrecognition
 pyttsx3
 requests
 googlesearch-python
+groq
+python-dotenv
