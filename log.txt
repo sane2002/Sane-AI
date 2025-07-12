@@ -1,0 +1,2 @@
+Suggested user to download and install chrome from https://www.google.com/intl/en_in/chrome/
+Used open_web fallback for skype: Opened browser to search for skype download.
