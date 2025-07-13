@@ -2,8 +2,8 @@ from voice_input import listen
 from speak import speak
 from ai_brain import prompt_to_action
 from task_router import route_task
-from dotenv import load_dotenv
-import os
+# from dotenv import load_dotenv
+# import os
 
 
 def main():
@@ -38,4 +38,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    # main()
+    from gui import *
